@@ -29,7 +29,7 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Setup openAI environment variable
+## Setup an environment variable file with the following
 
 ```bash
 openAIKey=YOUR_OPENAI_KEY_HERE
