@@ -12,7 +12,7 @@ Handles natural language requests from patients
   - Requires no medical or diagnostic advice
 
 ## Quick Start
-Prerequisites: Python 3.10+, pip, and an OpenAI API key.
+Prerequisites: Python 3.10+, pip, and an OpenAI/PineCone/Calendly API key.
 
 ```bash
 # Clone the repository
