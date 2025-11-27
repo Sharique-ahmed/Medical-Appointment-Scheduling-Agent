@@ -1,0 +1,602 @@
+[
+  {
+    "id": "faq-1",
+    "question": "What time do you open and close?",
+    "answer": "Mon-Fri 8 AM-6 PM, Sat 8 AM-1 PM, closed Sundays & major holidays.",
+    "category": "hours"
+  },
+  {
+    "id": "faq-2",
+    "question": "Can I just walk in or do I need an appointment?",
+    "answer": "Both! Walk-ins welcome, but booking an appointment guarantees shorter wait.",
+    "category": "appointments"
+  },
+  {
+    "id": "faq-3",
+    "question": "How do I make an appointment?",
+    "answer": "Online (website/app), patient portal, or call us at (555) 123-4567.",
+    "category": "appointments"
+  },
+  {
+    "id": "faq-4",
+    "question": "Can I book online right now?",
+    "answer": "Yes, 24/7 booking is open on our website and app.",
+    "category": "appointments"
+  },
+  {
+    "id": "faq-5",
+    "question": "Do you have same-day appointments?",
+    "answer": "Yes, we keep slots open every day for urgent/same-day needs.",
+    "category": "appointments"
+  },
+  {
+    "id": "faq-6",
+    "question": "How long is the wait if I walk in?",
+    "answer": "Usually 15-45 minutes depending on how busy we are.",
+    "category": "appointments"
+  },
+  {
+    "id": "faq-7",
+    "question": "Do you accept my insurance?",
+    "answer": "We take most major plans — tell us your insurance and we'll verify instantly.",
+    "category": "insurance"
+  },
+  {
+    "id": "faq-8",
+    "question": "I don't have insurance, how much is a visit?",
+    "answer": "Self-pay visits are $90-$150 depending on the type of visit.",
+    "category": "billing"
+  },
+  {
+    "id": "faq-9",
+    "question": "Do you see kids/babies?",
+    "answer": "Yes! We treat newborns to seniors.",
+    "category": "patients"
+  },
+  {
+    "id": "faq-10",
+    "question": "Do you have a pediatrician today?",
+    "answer": "Yes, pediatricians are in Mon-Sat.",
+    "category": "pediatrics"
+  },
+  {
+    "id": "faq-11",
+    "question": "Can I get a school/sports physical today?",
+    "answer": "Yes, usually same-day or next-day.",
+    "category": "services"
+  },
+  {
+    "id": "faq-12",
+    "question": "Do you do immigration medical exams?",
+    "answer": "Yes, our civil surgeons perform USCIS I-693 exams.",
+    "category": "services"
+  },
+  {
+    "id": "faq-13",
+    "question": "I need a work note / sick note, can the doctor write one?",
+    "answer": "Yes, just ask the doctor during your visit.",
+    "category": "services"
+  },
+  {
+    "id": "faq-14",
+    "question": "Can I get a COVID/flu shot without an appointment?",
+    "answer": "Yes, walk-in shots available during business hours.",
+    "category": "vaccines"
+  },
+  {
+    "id": "faq-15",
+    "question": "Do you do COVID testing?",
+    "answer": "Yes — rapid antigen (15 min) and PCR (1-2 days).",
+    "category": "testing"
+  },
+  {
+    "id": "faq-16",
+    "question": "Do you do blood work here?",
+    "answer": "Yes, in-house lab with most results same or next day.",
+    "category": "lab"
+  },
+  {
+    "id": "faq-17",
+    "question": "How long until I get my lab results?",
+    "answer": "Routine labs: 1-3 business days. Many tests same-day.",
+    "category": "lab"
+  },
+  {
+    "id": "faq-18",
+    "question": "Can I see my results online?",
+    "answer": "Yes, they appear in your patient portal as soon as ready.",
+    "category": "portal"
+  },
+  {
+    "id": "faq-19",
+    "question": "Do you refill prescriptions?",
+    "answer": "Yes, existing patients can request via portal or phone.",
+    "category": "prescriptions"
+  },
+  {
+    "id": "faq-20",
+    "question": "My pharmacy needs prior authorization — can you do it today?",
+    "answer": "Yes, we usually complete same day.",
+    "category": "prescriptions"
+  },
+  {
+    "id": "faq-21",
+    "question": "Do you offer telehealth/video visits?",
+    "answer": "Yes, for follow-ups, rashes, colds, mental health, meds, etc.",
+    "category": "telehealth"
+  },
+  {
+    "id": "faq-22",
+    "question": "Is there parking?",
+    "answer": "Free parking in front and behind the building.",
+    "category": "location"
+  },
+  {
+    "id": "faq-23",
+    "question": "Is the clinic wheelchair accessible?",
+    "answer": "Yes — ramp, wide doors, accessible rooms.",
+    "category": "accessibility"
+  },
+  {
+    "id": "faq-24",
+    "question": "Can I bring someone with me?",
+    "answer": "Yes, one companion is fine. Parent required for minors.",
+    "category": "visits"
+  },
+  {
+    "id": "faq-25",
+    "question": "Do you have Spanish-speaking doctors?",
+    "answer": "Yes + free interpreters for all other languages.",
+    "category": "language"
+  },
+  {
+    "id": "faq-26",
+    "question": "I'm running late — will you still see me?",
+    "answer": "Up to 15 min late is okay; call if later.",
+    "category": "appointments"
+  },
+  {
+    "id": "faq-27",
+    "question": "What's your cancellation policy?",
+    "answer": "24-hour notice or $35 fee may apply.",
+    "category": "policies"
+  },
+  {
+    "id": "faq-28",
+    "question": "Can I change my appointment time?",
+    "answer": "Yes, online or by phone.",
+    "category": "appointments"
+  },
+  {
+    "id": "faq-29",
+    "question": "Do you treat anxiety and depression?",
+    "answer": "Yes, mild-moderate cases (refer to psychiatry when needed).",
+    "category": "mental_health"
+  },
+  {
+    "id": "faq-30",
+    "question": "Do you do Pap smears and birth control?",
+    "answer": "Yes, full women's health services.",
+    "category": "womens_health"
+  },
+  {
+    "id": "faq-31",
+    "question": "I think I have a UTI — can I come in today?",
+    "answer": "Yes, same-day UTI visits available.",
+    "category": "urgent_care"
+  },
+  {
+    "id": "faq-32",
+    "question": "Do you remove moles or skin tags?",
+    "answer": "Yes, minor procedures done in office.",
+    "category": "dermatology"
+  },
+  {
+    "id": "faq-33",
+    "question": "Do you treat acne?",
+    "answer": "Yes — creams, oral meds, Accutane when needed.",
+    "category": "dermatology"
+  },
+  {
+    "id": "faq-34",
+    "question": "Can I get travel vaccines here?",
+    "answer": "Yes — yellow fever, typhoid, hepatitis, etc.",
+    "category": "vaccines"
+  },
+  {
+    "id": "faq-35",
+    "question": "Do you do allergy testing and shots?",
+    "answer": "Yes, skin testing + immunotherapy.",
+    "category": "allergies"
+  },
+  {
+    "id": "faq-36",
+    "question": "My child has an ear infection — can you see him today?",
+    "answer": "Yes, we prioritize same-day sick child visits.",
+    "category": "pediatrics"
+  },
+  {
+    "id": "faq-37",
+    "question": "Do you do stitches for cuts?",
+    "answer": "Yes, laceration repair on site.",
+    "category": "urgent_care"
+  },
+  {
+    "id": "faq-38",
+    "question": "I sprained my ankle — do you do X-rays?",
+    "answer": "Yes, digital X-ray on site.",
+    "category": "imaging"
+  },
+  {
+    "id": "faq-39",
+    "question": "Do you treat asthma?",
+    "answer": "Yes, full management + breathing tests.",
+    "category": "chronic_care"
+  },
+  {
+    "id": "faq-40",
+    "question": "I need a DOT/CDL physical — how much?",
+    "answer": "$120, about 30 minutes.",
+    "category": "services"
+  },
+  {
+    "id": "faq-41",
+    "question": "Are your doctors board-certified?",
+    "answer": "Yes, all are board-certified or board-eligible.",
+    "category": "doctors"
+  },
+  {
+    "id": "faq-42",
+    "question": "Can I choose which doctor I see?",
+    "answer": "Yes, request any provider when booking.",
+    "category": "appointments"
+  },
+  {
+    "id": "faq-43",
+    "question": "Do you offer weight loss programs?",
+    "answer": "Yes, medical weight management + GLP-1 meds if appropriate.",
+    "category": "wellness"
+  },
+  {
+    "id": "faq-44",
+    "question": "Is there a pharmacy inside?",
+    "answer": "No, but three pharmacies within 2-min walk.",
+    "category": "pharmacy"
+  },
+  {
+    "id": "faq-45",
+    "question": "Can I pay with Apple Pay?",
+    "answer": "Yes — cards, Apple/Google Pay, HSA/FSA.",
+    "category": "billing"
+  },
+  {
+    "id": "faq-46",
+    "question": "Do you have a patient portal?",
+    "answer": "Yes, sign up online or at first visit.",
+    "category": "portal"
+  },
+  {
+    "id": "faq-47",
+    "question": "How do I get my medical records?",
+    "answer": "Free electronic copy via portal or front desk.",
+    "category": "records"
+  },
+  {
+    "id": "faq-48",
+    "question": "I lost my insurance card — what now?",
+    "answer": "We can look it up or you can self-pay & get reimbursed.",
+    "category": "insurance"
+  },
+  {
+    "id": "faq-49",
+    "question": "Do you see patients without insurance?",
+    "answer": "Yes, discounted self-pay rates available.",
+    "category": "billing"
+  },
+  {
+    "id": "faq-50",
+    "question": "Is the waiting room kid-friendly?",
+    "answer": "Yes — toys, books, TV for kids.",
+    "category": "location"
+  },
+  {
+    "id": "faq-51",
+    "question": "Do you do pre-op physicals?",
+    "answer": "Yes, usually same or next-day.",
+    "category": "services"
+  },
+  {
+    "id": "faq-52",
+    "question": "Can I get a TB test for work/school?",
+    "answer": "Yes, PPD placement and reading.",
+    "category": "testing"
+  },
+  {
+    "id": "faq-53",
+    "question": "Do you treat erectile dysfunction (ED)?",
+    "answer": "Yes, confidential and effective treatment.",
+    "category": "mens_health"
+  },
+  {
+    "id": "faq-54",
+    "question": "My baby has a rash — how soon can we be seen?",
+    "answer": "Same-day pediatric sick visits almost always available.",
+    "category": "pediatrics"
+  },
+  {
+    "id": "faq-55",
+    "question": "Do you do ear wax removal?",
+    "answer": "Yes, irrigation or manual.",
+    "category": "services"
+  },
+  {
+    "id": "faq-56",
+    "question": "I have pink eye — can I come in?",
+    "answer": "Yes, seen daily.",
+    "category": "urgent_care"
+  },
+  {
+    "id": "faq-57",
+    "question": "Do you offer PRP or joint injections?",
+    "answer": "Yes for appropriate conditions.",
+    "category": "services"
+  },
+  {
+    "id": "faq-58",
+    "question": "Can I get the shingles vaccine?",
+    "answer": "Yes, Shingrix (2-dose).",
+    "category": "vaccines"
+  },
+  {
+    "id": "faq-59",
+    "question": "Do you do employment drug testing?",
+    "answer": "Yes, urine drug screens on site.",
+    "category": "testing"
+  },
+  {
+    "id": "faq-60",
+    "question": "I need a specialist referral — can you do it?",
+    "answer": "Yes, electronic referral same day.",
+    "category": "referrals"
+  },
+  {
+    "id": "faq-61",
+    "question": "Are you open Saturday?",
+    "answer": "Yes, until 1 PM.",
+    "category": "hours"
+  },
+  {
+    "id": "faq-62",
+    "question": "Do you close for lunch?",
+    "answer": "No, open straight through.",
+    "category": "hours"
+  },
+  {
+    "id": "faq-63",
+    "question": "Can I get a second opinion?",
+    "answer": "Absolutely welcome.",
+    "category": "services"
+  },
+  {
+    "id": "faq-64",
+    "question": "Do you treat migraines?",
+    "answer": "Yes, acute and preventive options.",
+    "category": "chronic_care"
+  },
+  {
+    "id": "faq-65",
+    "question": "Do you do rapid strep tests?",
+    "answer": "Yes, results in 5-10 minutes.",
+    "category": "testing"
+  },
+  {
+    "id": "faq-66",
+    "question": "Do you give IV fluids for dehydration?",
+    "answer": "Yes, in-office IV hydration available.",
+    "category": "services"
+  },
+  {
+    "id": "faq-67",
+    "question": "Can my teenager come alone?",
+    "answer": "16+ can come alone with consent.",
+    "category": "patients"
+  },
+  {
+    "id": "faq-68",
+    "question": "Do you have a dietician?",
+    "answer": "Yes, appointments available.",
+    "category": "wellness"
+  },
+  {
+    "id": "faq-69",
+    "question": "I'm pregnant — do you do prenatal care?",
+    "answer": "Early prenatal care yes; delivery referred to OB.",
+    "category": "prenatal"
+  },
+  {
+    "id": "faq-70",
+    "question": "Do you test for STDs?",
+    "answer": "Yes, confidential testing & treatment.",
+    "category": "sexual_health"
+  },
+  {
+    "id": "faq-71",
+    "question": "Can I get HPV vaccine (Gardasil)?",
+    "answer": "Yes, ages 9-45.",
+    "category": "vaccines"
+  },
+  {
+    "id": "faq-72",
+    "question": "Do you treat thyroid problems?",
+    "answer": "Yes, full evaluation and management.",
+    "category": "chronic_care"
+  },
+  {
+    "id": "faq-73",
+    "question": "I have high cholesterol — can you help?",
+    "answer": "Yes, lifestyle + meds if needed.",
+    "category": "chronic_care"
+  },
+  {
+    "id": "faq-74",
+    "question": "Do you do EKGs?",
+    "answer": "Yes, in-office with immediate reading.",
+    "category": "testing"
+  },
+  {
+    "id": "faq-75",
+    "question": "Can I get birth control pills today?",
+    "answer": "Yes, same-day prescriptions.",
+    "category": "womens_health"
+  },
+  {
+    "id": "faq-76",
+    "question": "Do you insert/remove IUDs or Nexplanon?",
+    "answer": "Yes, often same-day.",
+    "category": "womens_health"
+  },
+  {
+    "id": "faq-77",
+    "question": "Can I get a jury duty medical excuse?",
+    "answer": "Yes if medically appropriate.",
+    "category": "services"
+  },
+  {
+    "id": "faq-78",
+    "question": "Do you offer cash discounts?",
+    "answer": "Yes, lower self-pay rates for prompt payment.",
+    "category": "billing"
+  },
+  {
+    "id": "faq-79",
+    "question": "How early should I arrive for first visit?",
+    "answer": "15 minutes to complete paperwork.",
+    "category": "visits"
+  },
+  {
+    "id": "faq-80",
+    "question": "Can I fill forms online before coming?",
+    "answer": "Yes, link sent when you book.",
+    "category": "portal"
+  },
+  {
+    "id": "faq-81",
+    "question": "Is there Wi-Fi?",
+    "answer": "Yes, free guest Wi-Fi.",
+    "category": "location"
+  },
+  {
+    "id": "faq-82",
+    "question": "Do I need to fast before blood work?",
+    "answer": "Only if test says “fasting required.”",
+    "category": "lab"
+  },
+  {
+    "id": "faq-83",
+    "question": "Can I bring my service animal?",
+    "answer": "Yes, always welcome.",
+    "category": "accessibility"
+  },
+  {
+    "id": "faq-84",
+    "question": "Do you validate parking?",
+    "answer": "Parking is free — no validation needed.",
+    "category": "location"
+  },
+  {
+    "id": "faq-85",
+    "question": "What if I have an emergency after hours?",
+    "answer": "Call main number for on-call doctor or go to ER.",
+    "category": "emergencies"
+  },
+  {
+    "id": "faq-86",
+    "question": "Do you have a nurse advice line?",
+    "answer": "Yes, call anytime — after-hours to on-call team.",
+    "category": "advice"
+  },
+  {
+    "id": "faq-87",
+    "question": "Can I message the doctor?",
+    "answer": "Yes via portal, answered in 1-2 business days.",
+    "category": "portal"
+  },
+  {
+    "id": "faq-88",
+    "question": "Do you treat sleep apnea?",
+    "answer": "We diagnose/manage; sleep studies referred.",
+    "category": "chronic_care"
+  },
+  {
+    "id": "faq-89",
+    "question": "I have fever & cough — should I come in?",
+    "answer": "Yes, we have separate sick waiting area.",
+    "category": "urgent_care"
+  },
+  {
+    "id": "faq-90",
+    "question": "Do you do minor surgery (cyst removal, etc.)?",
+    "answer": "Yes, many done in office.",
+    "category": "services"
+  },
+  {
+    "id": "faq-91",
+    "question": "Can I get meningitis vaccine for college?",
+    "answer": "Yes, MenACWY & MenB available.",
+    "category": "vaccines"
+  },
+  {
+    "id": "faq-92",
+    "question": "Do you offer Botox?",
+    "answer": "Medical Botox yes; cosmetic at select locations.",
+    "category": "services"
+  },
+  {
+    "id": "faq-93",
+    "question": "I'm traveling — motion sickness meds?",
+    "answer": "Yes, Rx and OTC options.",
+    "category": "travel_med"
+  },
+  {
+    "id": "faq-94",
+    "question": "Do you treat hair loss?",
+    "answer": "Yes — labs + minoxidil, finasteride, PRP.",
+    "category": "dermatology"
+  },
+  {
+    "id": "faq-95",
+    "question": "Can I get a tetanus shot?",
+    "answer": "Yes, Td/Tdap anytime.",
+    "category": "vaccines"
+  },
+  {
+    "id": "faq-96",
+    "question": "Who do I call about a billing question?",
+    "answer": "Call (555) 123-4567 ext. 3.",
+    "category": "billing"
+  },
+  {
+    "id": "faq-97",
+    "question": "I moved — how to update address?",
+    "answer": "Tell front desk or update in portal.",
+    "category": "patient_info"
+  },
+  {
+    "id": "faq-98",
+    "question": "Do you offer group classes (diabetes, prenatal, etc.)?",
+    "answer": "Yes, schedule on our website.",
+    "category": "wellness"
+  },
+  {
+    "id": "faq-99",
+    "question": "I'm not getting reminder texts — why?",
+    "answer": "Check your cell number in the portal or call us.",
+    "category": "appointments"
+  },
+  {
+    "id": "faq-100",
+    "question": "Do you do annual wellness visits or physicals?",
+    "answer": "Yes, comprehensive physicals & preventive care.",
+    "category": "services"
+  }
+]
